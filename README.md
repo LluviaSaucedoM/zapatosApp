@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Screen view
+- iPhone
+<p align="center"> 
+  <img src="images/image_final01.png" width="250" hight="350">
+  <img src="images/image_final02.png" width="250" hight="350"> 
+</p> 
