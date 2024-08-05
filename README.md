@@ -19,6 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Screen view
 - iPhone
 <p align="center"> 
-  <img src="images/image_final01.png" width="250" hight="350">
-  <img src="images/image_final02.png" width="250" hight="350"> 
+  <img src="images/image_final02.png" width="250" hight="350">
+  <img src="images/image_final01.png" width="250" hight="350"> 
 </p> 
