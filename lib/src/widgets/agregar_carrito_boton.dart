@@ -23,7 +23,7 @@ class AgregarCarritoBoton extends StatelessWidget {
               style: const TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
             ), 
            const Spacer(),
-           const BotonNaranaja(texto: 'Hola',),
+           const BotonNaranaja(texto: 'Buy',),
            const SizedBox(width: 20,)
           ],
         ),

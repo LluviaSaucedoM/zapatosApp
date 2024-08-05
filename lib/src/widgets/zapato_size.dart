@@ -46,11 +46,11 @@ class ZapatoSizePreview extends StatelessWidget {
 class _ZapatoTallas extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 10),
+    return const Padding(
+      padding: EdgeInsets.symmetric(horizontal: 10),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceAround,
-        children: const [
+        children: [
           _TallaZapatoCaja(6),
           _TallaZapatoCaja(7.5),
           _TallaZapatoCaja(8),

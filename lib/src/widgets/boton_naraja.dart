@@ -25,7 +25,7 @@ class BotonNaranaja extends StatelessWidget {
       ),
       child: Text(
         texto,
-        style: TextStyle(color: Colors.white),
+        style: const TextStyle(color: Colors.white),
       ),
     );
   }

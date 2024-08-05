@@ -106,13 +106,13 @@ class _BotonSombreado extends StatelessWidget {
 class _ColoresMas extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 30),
+    return const Padding(
+      padding: EdgeInsets.symmetric(horizontal: 30),
       child: Row(
         children: [
           Expanded(
               child: Stack(
-            children: const [
+            children: [
               Positioned(
                 left: 90,
                 child: BotonColor(Color(0xFF364D56), 4, 'images/negro.png'),
@@ -127,7 +127,7 @@ class _ColoresMas extends StatelessWidget {
               BotonColor(Color(0xFFC6D642), 1, 'images/verde.png'),
             ],
           )),
-          const BotonNaranaja(
+          BotonNaranaja(
             texto: 'More releate items',
             alto: 30,
             ancho: 170,
